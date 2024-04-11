@@ -1,0 +1,6 @@
+name = "fastapi"
+compatibility_date = "2024-04-11"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "AcJFASQgYzI1ZWVmMWMtNDljYi00MWMwLWIzOGYtNWFiY2ZkNWYzNTFhYzcxY2RkMTYxYWZlNGY2YjkzY2ZiMjQ3M2FiZDI3ODc="
+UPSTASH_REDIS_REST_URL = "https://credible-quetzal-49733.upstash.io"
